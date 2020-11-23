@@ -1,5 +1,5 @@
 ### Hello 👋, my name is Yuri Martins
-#### I am spatial analyst and developer beginner
+#### Spatial Analyst and Developer Beginner
 I'm Yuri from Brazil, and I do spatial analysis and environmental studies. I really enjoy learning technologies to build applications, as well as Web-GIS platforms for environmental and business solutions.
 
 #### Skills and Experience: JS / REACT / HTML / CSS / Softwares GIS
