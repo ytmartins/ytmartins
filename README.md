@@ -2,7 +2,7 @@
 #### Spatial Analyst and Developer Beginner
 I'm from Brazil, and I do spatial analysis and environmental studies. I really enjoy learning technologies to build applications, as well as Web-GIS platforms for environmental and business solutions.
 
-#### Skills and Experience: JS / REACT / HTML / CSS / Softwares GIS
+#### Skills and Experience: HTML / CSS / JS / REACT / Softwares GIS 
 
 - 🔭 I’m currently working on API for mapping forest fires. 
 - 🌱 I’m currently learning Cloud Computing platforms solutions. 
