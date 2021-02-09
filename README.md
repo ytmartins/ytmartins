@@ -3,7 +3,7 @@
 I'm Brazilian but I'm living in Portugal. I love learning new technologies to build solutions especially with spatial intelligence. I seek to improve the world and the experience of people's. I am currently dedicated to developing my digital skills.
 
 
-#### Skills and Experience: HTML / CSS / JS / REACT / Softwares GIS 
+#### Skills and Experience: HTML / CSS / JS / Softwares GIS 
 
 - 🔭 I’m currently working on API for mapping forest fires.
 - 🌱 I'm currently learning Cloud Computing platforms solutions and web development.
