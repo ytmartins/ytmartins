@@ -1,6 +1,6 @@
 ### Hello 👋, my name is Yuri Tomaz Martins
 #### Spatial Analyst and Developer Beginner
-I'm Brazilian but I'm living in Portugal. I am currently dedicated to developing my digital skills.
+I'm Brazilian but I'm living in Portugal. Yuri is an engaged person, motivated to create, be productive and drive the development of solutions while seeking to transform with empathy, truth and enthusiasm. Focus on optimizing access to information with data science and spatial intelligence to improve decision making and serve customers.
 
 
 #### Skills and Experience: HTML / CSS / JS / Softwares GIS 
