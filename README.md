@@ -1,4 +1,4 @@
-### Hello 👋, my name is Yuri Tomaz Martins
+### Hello 👋
 #### Spatial Analyst and Developer Beginner
 
 I seek to improve my development skills every day to connect with my ability in location intelligence to create customer-focused solutions.
