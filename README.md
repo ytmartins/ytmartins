@@ -1,7 +1,7 @@
 ### Hello 👋
-#### Spatial Analyst and Developer Beginner
+#### I am Spatial Analyst and Developer Beginner
 
-I seek to improve my development skills every day to connect with my ability in location intelligence to create customer-focused solutions.
+GIS analyst with over 3 years of experience in GIS solution design. Professional with technical training in Web Design, graduated in Environmental Management at UFRRJ and finalist for the Masters in Environmental Technology in Portugal. Search for a company with a growth and technological environment. Professional with dynamic profile and very engaged in self-development, resilient, applied and solutions-oriented with recent skills in web frontend development, user-centered design and an open vision of emerging technologies.
 
 #### Skills and Experience: HTML / CSS / JS / Softwares GIS 
 
