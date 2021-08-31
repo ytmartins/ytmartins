@@ -1,5 +1,4 @@
 ### Hello 👋
-#### I am Spatial Analyst and Developer Beginner
 
 GIS analyst with over 3 years of experience in GIS solution design. Professional with technical in Web Design, graduated in Environmental Management at UFRRJ and finalist for the Masters in Environmental Technology in Portugal. Search for a company with a growth and technological environment. Professional with dynamic profile and very engaged in self-development, resilient, applied and solutions-oriented with recent skills in web frontend development, user-centered design and an open vision of emerging technologies.
 
