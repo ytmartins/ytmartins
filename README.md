@@ -15,7 +15,7 @@ Professional with experience in creating ArcGIS solutions, Spatial Analysis, Rem
 
 <h2 align="left">⚡ Technologies/Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,figma,git,vscode,html,css,js,py,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,figma,git,vscode,html,css,js,py,&perline=10)](https://skillicons.dev)
 
 #### Skills and Experience: 
 
