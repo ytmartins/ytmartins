@@ -1,7 +1,7 @@
 <h1>Hi, I'm Yuri Martins 👋 </h1>
 <p align="left">
-  <a href="mailto:yuritomazmartins@hotmail.com">
-    <img src="https://img.shields.io/badge/-yuritomazmartins@hotmail.com-6633cc?style=flat-square&logo=gmail&logoColor=white&link=mailto:yuritomazmartins@hotmail.com" />
+  <a href="mailto:ytmartins@pm.me">
+    <img src="https://img.shields.io/badge/-ytmartins@pm.me-6633cc?style=flat-square&logo=gmail&logoColor=white&link=mailto:yuritomazmartins@hotmail.com" />
   </a>
   <a href="https://www.linkedin.com/in/ytmartins/">
     <img src="https://img.shields.io/badge/-Yuri%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ytmartins/" />
