@@ -19,9 +19,9 @@ Professional with experience in creating ArcGIS solutions, Spatial Analysis, Rem
 
 #### Skills and Experience: 
 
-- 🔭 I'm currently working on Customer Success and ArcGIS Solutions.
-- 🌱 I'm currently learning Advanced Analytics and Automation.
-- 💬 Ask me about innovation for Spatial Intelligence Applications.
+- 🔭 I'm currently working on Business Architect and ArcGIS Solutions.
+- 🌱 I'm currently learning Advanced Analytics and Flow Automation.
+- 💬 Ask me about innovation for Spatial and Utilities.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ytmartins&&show_icons=true&title_color=ffffff&icon_color=e74c3c&text_color=daf7dc&bg_color=151515)
 
