@@ -11,17 +11,11 @@
   </a>
 </p>
 
-Professional with experience in creating ArcGIS solutions, Spatial Analysis, Remote Sensing. Strong technical skills, dynamic and engaged in self-development with recent Frontend development skills and open vision to technological trends and digital transformation.
+Professional with 5 years of experience in GIS solutions, working as a Business Architect, helping Utilities companies to drive innovation and evolution through Esri technology. I have strong skills in organization, self-learning, creativity, and agility. I B.S. in Environmental Management with international mobility and have experience in ETL, Web Design, WebGIS development, Esri solution architecture, process optimization, and programming languages such as JavaScript and Python.
 
-<h2 align="left">⚡ Technologies/Tools:</h2>
+<h2 align="left">⚡ Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,figma,git,vscode,html,css,js,py,&perline=10)](https://skillicons.dev)
-
-#### Skills and Experience: 
-
-- 🔭 I'm currently working on Business Architect and ArcGIS Solutions.
-- 🌱 I'm currently learning Advanced Analytics and Flow Automation.
-- 💬 Ask me about innovation for Spatial and Utilities.
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,html,css,js,py,&perline=10)](https://skillicons.dev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ytmartins&&show_icons=true&title_color=ffffff&icon_color=e74c3c&text_color=daf7dc&bg_color=151515)
 
