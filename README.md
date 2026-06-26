@@ -11,7 +11,7 @@
   </a>
 </p>
 
-Professional with 5 years of experience in GIS solutions, working as a Business Architect, helping Utilities companies to drive innovation and evolution through Esri technology. I have strong skills in organization, self-learning, creativity, and agility. I B.S. in Environmental Management with international mobility and have experience in ETL, Web Design, WebGIS development, Esri solution architecture, process optimization, and programming languages such as JavaScript and Python.
+Arquiteto de Negócios especializado em Utilities com experiência na arquitetura de estratégias de transformação digital, modernização de GIS corporativo e implementação de soluções ArcGIS para distribuidoras de gás e energia. Nos últimos anos participei da evolução tecnológica de mais de 160 organizações, atuando na identificação de desafios de negócio, construção de roadmaps de transformação digital, definição de soluções corporativas e geração de resultados e novos negócios. Possuo experiência em Plataforma ArcGIS, Utility Network, análise e desenho de soluções, gestão de ativos, inteligência de mercado e digitalização de processos operacionais. Minha atuação conecta tecnologia, processos e estratégia para apoiar utilities na evolução de seus modelos operacionais, aumento da confiabilidade dos dados, eficiência operacional e tomada de decisão baseada em Location Intelligence, Data-Driven e Design Thinking.
 
 <h2 align="left">⚡ Tools</h2>
 
