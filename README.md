@@ -8,7 +8,7 @@
 
 [![Explore portfolio](https://img.shields.io/badge/Explore_Portfolio-yurimartins.dev-B9F36B?style=for-the-badge&labelColor=111B2B)](https://yurimartins.dev)
 
-[LinkedIn](https://www.linkedin.com/in/ytmartins/) · [GitHub](https://github.com/ytmartins) · [YouTube](https://www.youtube.com/@ytmartins) · [Credly badge](https://www.credly.com/badges/ad4a8e35-108f-4e65-85aa-a2b212ea1b9d/public_url)
+[LinkedIn](https://www.linkedin.com/in/ytmartins/) · [GitHub](https://github.com/ytmartins) · [Credly badge](https://www.credly.com/badges/ad4a8e35-108f-4e65-85aa-a2b212ea1b9d/public_url)
 
 ---
 
