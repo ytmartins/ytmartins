@@ -1,22 +1,32 @@
-<h1>Hi, I'm Yuri Martins 👋 </h1>
-<p align="left">
-  <a href="mailto:ytmartins@pm.me">
-    <img src="https://img.shields.io/badge/-ytmartins@pm.me-6633cc?style=flat-square&logo=gmail&logoColor=white&link=mailto:yuritomazmartins@hotmail.com" />
-  </a>
-  <a href="https://www.linkedin.com/in/ytmartins/">
-    <img src="https://img.shields.io/badge/-Yuri%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ytmartins/" />
-  </a>
-  <a href="https://github.com/ytmartins/?tab=follow">
-    <img src="https://img.shields.io/github/followers/ytmartins?label=Follow&style=social" />
-  </a>
-</p>
+# Yuri Martins
 
-Arquiteto de Negócios especializado em Utilities com experiência na arquitetura de estratégias de transformação digital, modernização de GIS corporativo e implementação de soluções ArcGIS para distribuidoras de gás e energia. Nos últimos anos participei da evolução tecnológica de mais de 160 organizações, atuando na identificação de desafios de negócio, construção de roadmaps de transformação digital, definição de soluções corporativas e geração de resultados e novos negócios. Possuo experiência em Plataforma ArcGIS, Utility Network, análise e desenho de soluções, gestão de ativos, inteligência de mercado e digitalização de processos operacionais. Minha atuação conecta tecnologia, processos e estratégia para apoiar utilities na evolução de seus modelos operacionais, aumento da confiabilidade dos dados, eficiência operacional e tomada de decisão baseada em Location Intelligence, Data-Driven e Design Thinking.
+**Geospatial Solutions Architect · AI-Native Builder**
 
-<h2 align="left">⚡ Tools</h2>
+*Designing spatial systems that solve complex business problems.*
 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,html,css,js,py,&perline=10)](https://skillicons.dev)
+**Enterprise GIS** · **Utilities** · **GeoAI** · **AI-Native Engineering**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ytmartins&&show_icons=true&title_color=ffffff&icon_color=e74c3c&text_color=daf7dc&bg_color=151515)
+[![Explore portfolio](https://img.shields.io/badge/Explore_Portfolio-yurimartins.dev-B9F36B?style=for-the-badge&labelColor=111B2B)](https://yurimartins.dev)
 
+[LinkedIn](https://www.linkedin.com/in/ytmartins/) · [GitHub](https://github.com/ytmartins) · [YouTube](https://www.youtube.com/@ytmartins) · [Credly badge](https://www.credly.com/badges/ad4a8e35-108f-4e65-85aa-a2b212ea1b9d/public_url)
 
+---
+
+### About
+
+I work at the intersection of **business problems, geospatial architecture, and enterprise technology**, with a focus on gas and energy utilities.
+
+My background combines solution discovery, GIS modernization, utility network modeling, systems integration, and operational applications built on the ArcGIS platform. I aim to identify the **real problem behind a request** and design spatial systems that improve decisions and deliver measurable business value.
+
+### Areas of focus
+
+- **Enterprise GIS & architecture** — ArcGIS Enterprise, ArcGIS Online, WebGIS, APIs, and enterprise integration.
+- **Utilities & network intelligence** — ArcGIS Utility Network, network connectivity, tracing, asset data quality, and field operations.
+- **Spatial applications & data engineering** — ArcGIS Maps SDK for JavaScript, Experience Builder, Dashboards, Python, and FME.
+- **GeoAI & AI-native engineering** — exploring intelligent spatial interfaces, agent workflows, spec-driven development, and responsible AI.
+
+### How I approach solutions
+
+**Discover the real need → Design the architecture → Build and integrate → Validate outcomes**
+
+My [portfolio](https://yurimartins.dev) is the primary place to explore my approach, professional background, and selected work.
