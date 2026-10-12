@@ -2,7 +2,7 @@
 
 **Geospatial Solutions Architect · AI-Native Builder**
 
-*Designing spatial systems that solve complex business problems.*
+*Architecting spatial solutions that transform data complexity into clear business decisions.*
 
 **Enterprise GIS** · **Utilities** · **GeoAI** · **AI-Native Engineering**
 
