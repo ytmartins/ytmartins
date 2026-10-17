@@ -1,4 +1,4 @@
-# Yuri Martins 👋 [![Explore](https://img.shields.io/badge/Explore-yurimartins.dev-B9F36B?style=for-the-badge&labelColor=111B2B)](https://yurimartins.dev)
+# Yuri Martins 👋 [![Explore](https://img.shields.io/badge/yurimartins.dev-B9F36B?style=for-the-badge&labelColor=111B2B)](https://yurimartins.dev)
 
 **Geospatial Solutions Architect · AI-Native Builder**
 
