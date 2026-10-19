@@ -2,16 +2,11 @@
 
 **Geospatial Solutions Architect · AI-Native Builder**
 
-*Architecting spatial solutions that transform data complexity into clear business decisions.*
-
-**Enterprise GIS** · **Utilities** · **GeoAI** · **AI-Native Engineering**
-
----
-### About
-
 I work at the intersection of **business problems, geospatial architecture, and enterprise technology**, with a focus on gas and energy utilities.
 
 My background combines solution discovery, GIS modernization, utility network modeling, systems integration, and operational applications built on the ArcGIS platform. I aim to identify the **real problem behind a request** and design spatial systems that improve decisions and deliver measurable business value.
+
+**Enterprise GIS** · **Utilities** · **GeoAI** · **AI-Native Engineering**
 
 ### Areas of focus
 
