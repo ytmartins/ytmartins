@@ -11,7 +11,7 @@ I work at the intersection of **business problems, geospatial architecture, and 
 - **Enterprise GIS & architecture** — ArcGIS Enterprise, ArcGIS Online, WebGIS, APIs, and enterprise integration.
 - **Utilities & network intelligence** — ArcGIS Utility Network, network connectivity, tracing, asset data quality, and field operations.
 - **Spatial applications & data engineering** — ArcGIS Maps SDK for JavaScript, ArcGIS Pro, Python, FME and Data Pipeline.
-- **GeoAI & AI-native engineering** — exploring intelligent spatial interfaces, agent workflows, spec-driven development, and responsible AI.
+- **GeoAI & AI-native engineering** — exploring intelligent spatial interfaces, agent workflows, spec-driven development, and responsible AI Claude Code, ChatGPT Codex.
 
 ### Approach
 
