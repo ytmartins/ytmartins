@@ -4,7 +4,7 @@
 
 I work at the interface of **business problems, geospatial architecture, and enterprise technology**, with a focus on gas and energy utilities. My background combines solution discovery, GIS modernization, utility network modeling, systems integration, and operational applications built on the ArcGIS platform. I aim to identify the **real problem behind a request** and design spatial systems that improve decisions and deliver measurable business value.
 
-**Enterprise GIS** · **Utilities** · **Spatial Intelligence** · **AI-Native Engineering** · **Data** · **Analytics** · **Developer**
+**Enterprise GIS** · **Utilities** · **Spatial Intelligence** · **AI-Native Skills** · **Data** · **Analytics**
 
 ### Areas of focus
 
