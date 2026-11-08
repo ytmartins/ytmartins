@@ -6,13 +6,6 @@ I work at the interface of **business problems, geospatial architecture, and ent
 
 **Enterprise GIS** · **Utilities** · **Spatial Intelligence** · **AI-Native Skills** · **Data** · **Analytics**
 
-### Areas of focus
-
-- **Enterprise GIS & architecture** — ArcGIS Enterprise, ArcGIS Online, WebGIS, APIs, and enterprise integration.
-- **Utilities & network intelligence** — ArcGIS Utility Network, Branch versioning, network rules, tracing, diagrams, asset data qualit, field operations and ETL Migration.
-- **Spatial applications & data engineering** — ArcGIS Maps SDK for JavaScript, ArcGIS Pro, Python, FME and Data Pipeline.
-- **GeoAI & AI-native engineering** — exploring intelligent spatial interfaces, agent workflows, spec-driven development, and responsible AI Claude Code, ChatGPT Codex.
-
 ### Approach
 
 **Discover the real need → Design the architecture → Build and integrate → Validate outcomes**
