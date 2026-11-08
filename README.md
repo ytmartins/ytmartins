@@ -8,5 +8,5 @@ I work at the interface of **business problems, geospatial architecture, and ent
 
 ### Approach
 
-**Discover the real need → Design the architecture → Build and integrate → Validate outcomes**
+**Discover real need → Design the architecture → Build and integrate → Validate outcomes**
 
